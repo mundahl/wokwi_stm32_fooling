@@ -1,0 +1,13 @@
+!SESSION 2024-04-26 22:24:27.698 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/johnmundahl/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/johnmundahl/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-04-26 22:25:49.292
+!MESSAGE Log4j initialized with config file /Users/johnmundahl/Documents/Work/Learn/Software/Cpp/Wokwi/wokwi_stm32_fooling/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-04-26 22:25:56.591
+!MESSAGE Started RMI Server, listening on port 41337

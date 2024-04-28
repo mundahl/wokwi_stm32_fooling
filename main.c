@@ -5,7 +5,7 @@
 
 // ST Nucleo Green user LED (PA5)
 #define LED_PORT                GPIOA
-#define LED_PIN                 GPIO_PIN_6
+#define LED_PIN                 GPIO_PIN_7
 #define LED_PORT_CLK_ENABLE     __HAL_RCC_GPIOA_CLK_ENABLE
 
 UART_HandleTypeDef huart2;

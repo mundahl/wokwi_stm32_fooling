@@ -10,7 +10,7 @@
     [ "$serialMonitor:TX", "nucleo:PA3", "", [] ],
     [ "$serialMonitor:RX", "nucleo:PA2", "", [] ],
     [ "led1:C", "nucleo:GND.9", "green", [ "v0" ] ],
-    [ "led1:A", "nucleo:D11", "green", [ "v0" ] ]
+    [ "led1:A", "nucleo:D8", "green", [ "v0" ] ]
   ],
   "dependencies": {}
 }
